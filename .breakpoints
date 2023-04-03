@@ -1,0 +1,20 @@
+{
+  "files": {
+    "Ejemplo4/main4.c": [
+      {
+        "id": "9e953cc6-9155-49ca-9952-3833aba46251",
+        "line": 10,
+        "version": 264,
+        "index": 128
+      }
+    ],
+    "main.c": [
+      {
+        "id": "2e391014-f6a7-43af-993e-1648c5f48bc1",
+        "line": 19,
+        "version": 472,
+        "index": 308
+      }
+    ]
+  }
+}
