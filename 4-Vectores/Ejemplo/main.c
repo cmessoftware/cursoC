@@ -28,7 +28,7 @@ void divido2 ( int v1[], int N)
          printf("%d , ", v2[i]);
       }
 
-        puts("\n*******\n");
+      puts("\n*******\n");
     
       for ( int i = 0; i < N/2; i++ ){
          printf("%d , ", v3[i]);

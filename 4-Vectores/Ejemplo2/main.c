@@ -151,10 +151,10 @@ int main(void) {
   printf("\n%s\t%d",cadena,strlen(cadena));
 
   //6- Dado un vector de enteros de una cantidad par de elementos, armar dos vectores, 1/2 y 1/2
-  //7- Dado un vector de enteros de una cantidad divisible por 3, armar dos vectores, 1/3 , 1/3, y 1/3
+  //7- Dado un vector de enteros de una cantidad divisible por 3, armar tres vectores, 1/3 , 1/3, y 1/3
   //8- Concatenar dos cadenas de caracters y mostrarlas con printf
   //strcat --> Concatena
-  //strlen --> Muestra logngitud de la cadena
+  //strlen --> Muestra longitud de la cadena
   //strcpy --> copia una cadena en otra.
   //strncpy --> copia hasta el, n-esimo indice (Verificar)
   //strcmp --> compara
