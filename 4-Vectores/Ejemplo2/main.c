@@ -40,7 +40,7 @@ int numeroMayor(int vector[])
   return resultado;
 }
 
-float varianza(vector[])
+float varianza(int vector[])
 {
   float resultado = 0;
 
@@ -128,9 +128,6 @@ int main(void) {
   
   int vector = {1,4,23,-21,0,9,11,19,34};
 
-<<<<<<< HEAD
-  //2- Calcular el menor numeros de un vector de enteros.
-=======
   int vector[N] = {0,76,4,6,-7,3,10,12,-2};
   //2- Calcular el menor numeros de una lista ingresada.
 
@@ -139,7 +136,6 @@ int main(void) {
 
   int mayor = numeroMayor(vector);
   printf("El mayor numero del vector es: %d\n",mayor);
->>>>>>> 59138a3ecf6a22fb5908a89f1b1321cc004e5a60
   
   //3- Calcular la varianza de una lista. v = SUM(1 a N)(n^2)/N
 
